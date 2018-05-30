@@ -23,9 +23,7 @@ My beautiful massive odd brain.
 
 ## Authors
 
-* **Me** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Me** - *Initial work*
 
 ## Acknowledgments
 
